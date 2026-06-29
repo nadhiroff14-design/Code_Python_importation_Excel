@@ -1,0 +1,1 @@
+$db = new PDO("mysql:host=localhost;dbname=rgzdbase;charset=utf8", "rgzdbuser", "RO46TueAe3Y8fsh4");
